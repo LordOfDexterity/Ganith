@@ -2,7 +2,7 @@
 Image Text Reader
 
 # Tesseract Software
-Use download and install the software in Program Files(default) folder from this github page:  [Tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
+Use download and install the software in Program Files(default) folder from this github page:  [Tesseract-OCR](https://github.com/UB-Mannheim/tesseract/wiki)
 
 # Running Ganith
 - python should be installed in your computer
