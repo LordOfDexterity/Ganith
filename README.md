@@ -1,0 +1,2 @@
+# Ganith-
+Image Text Reader
